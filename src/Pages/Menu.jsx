@@ -6,7 +6,7 @@ import Pic3 from "./images/pic3.png";
 
 export default function Menu() {
   return (
-		<div className="h-[666px] bg-white flex justify-center flex-col items-center bg-custom-bg">
+		<div className="h-[666px] flex justify-center flex-col items-center bg-custom-bg">
 			<div className="h-[83px] w-[298px] text-center mb-[34px]">
 				<h1 className="text-[64px] font-[400] text-[#FFF8E1] ">
 					Our Menu
