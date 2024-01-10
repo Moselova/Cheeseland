@@ -12,11 +12,11 @@ export default function About() {
 					<h2 className="text-[60px] font-[400] font-my-font">
 						We Love Cheesecake
 					</h2>
-					<p className="text-[24px] font-[400]">
+					<p className="text-[24px] font-[400] text-[rgba(27,11,11,0.75)]">
 						Discover Our Cheesecake Story
 					</p>
 				</div>
-				<div className="text-[20px] font-[400] h-[182px] w-[558px] mb-[40px]">
+				<div className="text-[20px] font-[400] h-[182px] w-[558px] mb-[40px] text-[rgba(0,0,0,0.70)]">
 					<p className="mb-[20px]">
 						At Cheesecake Love, quality is our cornerstone. Each
 						<br />

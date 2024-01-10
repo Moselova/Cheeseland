@@ -6,12 +6,10 @@ import Navbar from './Navbar'
 export default function Layout() {
   return (
 		<>
-			<div className="bg-custom-background bg-no-repeat bg-cover">
+			<div className="bg-custom-background bg-no-repeat bg-contain">
 				<Navbar />
 				<Outlet />
-				
 			</div>
-			
 		</>
   );
 }

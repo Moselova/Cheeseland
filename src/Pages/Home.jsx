@@ -4,6 +4,7 @@ import Icon from "./images/btn-1.svg";
 import Main from "./images/Main.png";
 import About from './About';
 import Menu from './Menu';
+import Blog from './Blog';
 
 export default function Home() {
   return (
@@ -42,6 +43,7 @@ export default function Home() {
 			</div>
 			<About />
 			<Menu />
+			<Blog />
 		</div>
   );
 }
