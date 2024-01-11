@@ -5,6 +5,7 @@ import Main from "./images/Main.png";
 import About from './About';
 import Menu from './Menu';
 import Blog from './Blog';
+import Contact from './Contact';
 
 export default function Home() {
   return (
@@ -44,6 +45,7 @@ export default function Home() {
 			<About />
 			<Menu />
 			<Blog />
+			<Contact />
 		</div>
   );
 }
